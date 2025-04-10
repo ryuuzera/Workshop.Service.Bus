@@ -1,0 +1,6 @@
+@Workshop.Service.Bus.Interface_HostAddress = http://localhost:5120
+
+GET {{Workshop.Service.Bus.Interface_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
